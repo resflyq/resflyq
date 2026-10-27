@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Sergey, a 17-year-old developer.<br>💻 Started learning IT at the age of 12.<br>📱 Currently learning Dart & Flutter for mobile app development.<br>🐍 Experienced with Python, web development and even the development of game servers in GTA V and Rust.<br>🌱 Continuously improving my programming and software development skills.<br><br>Contact:<br>📧 sergeykovtun061@gmail.com
+👋 Hello, I'm Sergey<br>💻 Started learning IT at the age of 12.<br>📱 Currently learning Dart & Flutter for mobile app development.<br>🐍 Experienced with Python, web development and even the development of game servers in GTA V and Rust.<br>🌱 Continuously improving my programming and software development skills.<br><br>Contact:<br>📧 sergeykovtun061@gmail.com
 
 
 ## 🌐 Socials:
